@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+.icons{
+    text-align: center;
+}
+
+.counters {
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    padding: 0.5em;
+}
